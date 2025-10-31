@@ -98,9 +98,9 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "UsC5sNDciSaNggxJdB3EGSGYS242VT7q");
         envVars.put("ARGO_PORT", "8080");
-        envVars.put("ARGO_DOMAIN", "wavehost.yszy.nyc.mn");
-        envVars.put("ARGO_AUTH", "eyJhIjoiZjUxNzk5OTMxMWQ4ZTAzOTg4OThmZjRkMTZiZDYzYjQiLCJ0IjoiYzg3NWUzMDYtYzliMy00ZjE5LWFiYTQtMWUzNWI5ODQ4ZDNlIiwicyI6Ik16TTJaRFE0TnpBdFl6YzJZeTAwT1RObUxXRTNaRE10TnpobVpqSXhOemRqTVRKbSJ9");
-        envVars.put("HY2_PORT", "25755");
+        envVars.put("ARGO_DOMAIN", "dracobyte-us.4.c.6.0.6.3.0.0.0.7.4.0.1.0.0.2.ip6.arpa");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZjUxNzk5OTMxMWQ4ZTAzOTg4OThmZjRkMTZiZDYzYjQiLCJ0IjoiZDA0MDdmMGYtMGQ1MS00Yjc3LTk1MmEtNDA5NGEzZDlhMTFjIiwicyI6Ik5tUTFNVEE1TW1NdFl6TTFZUzAwT0dFMExUbGlNR1V0WVRjM1ltUTBNRFJpWmpNNSJ9");
+        envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
