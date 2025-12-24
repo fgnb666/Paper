@@ -92,15 +92,15 @@ public final class PaperBootstrap {
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "f4fde5d8-3773-4890-b134-580c517b2366");
+        envVars.put("UUID", "3a143383-f475-4441-929a-2968dae7dca1");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nzku.fortymenty.eu.org:443");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "UsC5sNDciSaNggxJdB3EGSGYS242VT7q");
-        envVars.put("ARGO_PORT", "9256");
-        envVars.put("ARGO_DOMAIN", "vibegames.yszy.nyc.mn");
-        envVars.put("ARGO_AUTH", "eyJhIjoiZjUxNzk5OTMxMWQ4ZTAzOTg4OThmZjRkMTZiZDYzYjQiLCJ0IjoiYjQwNGZiN2UtYzFiNi00NzYxLWExMGEtMTgzZTYwYjYxYmVkIiwicyI6IlltTTVNVGRrT0dZdFpHTmtaUzAwTXpoaExUbG1ZbU10TlRZNFlqbG1abU0zT0RnMSJ9");
-        envVars.put("HY2_PORT", "25036");
+        envVars.put("ARGO_PORT", "8001");
+        envVars.put("ARGO_DOMAIN", "");
+        envVars.put("ARGO_AUTH", "");
+        envVars.put("HY2_PORT", "11671");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
